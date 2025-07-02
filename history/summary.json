@@ -1,22 +1,22 @@
 [
   {
     "name": "GeoScore",
-    "url": "https://www.geoscore.com.au",
-    "icon": "https://icons.duckduckgo.com/ip3/www.geoscore.com.au.ico",
+    "url": "https://geoscore.com.au",
+    "icon": "https://icons.duckduckgo.com/ip3/geoscore.com.au.ico",
     "slug": "geo-score",
-    "status": "down",
-    "uptime": "8.52%",
-    "uptimeDay": "8.52%",
-    "uptimeWeek": "8.52%",
-    "uptimeMonth": "8.52%",
-    "uptimeYear": "8.52%",
-    "time": 857,
-    "timeDay": 857,
-    "timeWeek": 857,
-    "timeMonth": 857,
-    "timeYear": 857,
+    "status": "up",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
+    "time": 904,
+    "timeDay": 904,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2025-07-02": 0
+      "2025-07-02": 7
     }
   }
 ]
