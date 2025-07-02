@@ -4,7 +4,7 @@ repo: geoscore-uptime # The name of this repository
 
 sites:
   - name: GeoScore
-    url: https://www.geoscore.com.au
+    url: https://geoscore.com.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
