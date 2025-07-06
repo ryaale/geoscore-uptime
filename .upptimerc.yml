@@ -13,6 +13,7 @@ status-website:
   name: GeoScore Uptime
   introTitle: "**GeoScore** is Australia's leading location intelligence software company, with a mission to support the sustainable development of housing and services within our communities."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #themeUrl: https://example.com/my-custom-theme.css
   navbar:
     - title: GeoScore Platform
       href: https://geoscore.com.au
