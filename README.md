@@ -1,4 +1,4 @@
-# [📈 Live Status]([https://demo.upptime.js.org](https://ryaale.github.io/geoscore-uptime/)): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](<[https://demo.upptime.js.org](https://ryaale.github.io/geoscore-uptime/)>): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [GeoScore](https://geoscore.com.au), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -18,7 +18,7 @@ This repository contains the open-source uptime monitor and status page for [Geo
 
 <!--end: status pages-->
 
-[**Status website →**]([https://demo.upptime.js.org](https://ryaale.github.io/geoscore-uptime/))
+[**Status website →**](<[https://demo.upptime.js.org](https://ryaale.github.io/geoscore-uptime/)>)
 
 ## 📄 License
 
