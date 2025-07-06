@@ -9,9 +9,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /geoscore-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/ryaale/geoscore-uptime/blob/a5cd956da6ef688ef86c4af91d64f004f03bf11e/img/logo.png
   name: GeoScore Uptime
-  introTitle: "**GeoScore** GeoScore is Australia's leading location intelligence software company, with a mission to support the sustainable development of housing and services within our communities."
+  introTitle: "**GeoScore** is Australia's leading location intelligence software company, with a mission to support the sustainable development of housing and services within our communities."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: GeoScore Platform
