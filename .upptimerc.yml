@@ -1,6 +1,5 @@
-# Change these first
-owner: ryaale # Your GitHub organization or username, where this repository lives
-repo: geoscore-uptime # The name of this repository
+owner: ryaale 
+repo: geoscore-uptime
 
 sites:
   - name: GeoScore
@@ -11,14 +10,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /geoscore-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: GeoScore Uptime
+  introTitle: "**GeoScore** GeoScore is Australia's leading location intelligence software company, with a mission to support the sustainable development of housing and services within our communities."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: GeoScore Platform
+      href: https://geoscore.com.au
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
