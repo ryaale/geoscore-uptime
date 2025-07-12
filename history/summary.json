@@ -4,17 +4,17 @@
     "url": "https://geoscore.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/geoscore.com.au.ico",
     "slug": "geo-score",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 910,
-    "timeWeek": 847,
-    "timeMonth": 824,
-    "timeYear": 824,
+    "time": 787,
+    "timeDay": 636,
+    "timeWeek": 792,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   }
 ]
